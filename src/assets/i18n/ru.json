@@ -1,0 +1,71 @@
+{
+  "translations": {
+    "general": {
+      "yesAnswer": "Да",
+      "noAnswer": "Нет",
+      "alert": "Внимание!",
+      "add": "Добавить",
+      "cancel": "Отмена",
+      "created": "Создано в",
+      "searching": "Поиск"
+    },
+
+    "homePage": {
+      "noNotes": "Заметки не найдены",
+      "andOthers": "И другие"
+    },
+
+    "sMenu": {
+      "homePage": "Главная",
+      "newItem": "Новый элемент",
+      "newNote": "Новая заметка",
+      "newList": "Новый список",
+      "settings": "Настройки"
+    },
+
+    "notesPagesGeneral": {
+      "notesTitle": "Название",
+      "placeHolderTitle": "Ваше название",
+      "notesDescription": "Описание",
+      "inputPlaceHolder": "Ваш элемент?",
+      "placeHolderDescription": "Ваш текст здесь",
+      "backButton": "Назад",
+      "deleteButton": "Удалить",
+      "saveButton": "Сохранить",
+      "created": "Создано",
+      "edited": "Отредактировано"
+    },
+
+    "newNotePage": {
+      "pageTitle": "Заметки - Создание новой заметки"
+    },
+
+    "viewAndEditPage": {
+      "pageTitle": "Заметки - Просмотр и редактирование",
+      "alertText": "Вы уверены, что хотите удалить эту заметку?"
+    },
+
+    "newListPage": {
+      "pageTitle": "Заметки - Создание нового списка",
+      "emptyList": "Ваш список пуст"
+    },
+
+    "viewAndEditList": {
+      "pageTitle": "Заметки - Просмотр и редактирование"
+    },
+
+    "settingsPage": {
+      "pageTitle": "Заметки - Настройки",
+      "appOptions": "Параметры приложения",
+      "languageSelect": "Язык",
+      "aboutTitle": "О приложении",
+      "aboutText": "Простой проект с использованием Ionic Framework",
+      "githubCode": "Код на Github",
+      "dangerZone": "Опасная ситуация!",
+      "resetAppButton": "Сбросить базу данных приложения",
+      "resetText": "Вы собираетесь сбросить базу данных <p> <strong> Все ваши заметки будут потеряны </strong> </p> <p> Вы хотите продолжить? </p>",
+      "contributorsText": "Участники",
+      "langSetTo": "Язык установлен на"
+    }
+  }
+}
